@@ -34,6 +34,9 @@ Simple Custom Error Page for HTTP Status Code
 ## Dependency
 * err/background.png
 
+## Example
+* err/err503.html
+![preview err/err503.html](ex_err503.png)
 
 
 -------------------------------
