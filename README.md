@@ -33,6 +33,7 @@ Simple Custom Error Page for HTTP Status Code
 
 ## Dependency
 * err/background.png
+* err/core.css
 
 ## Example
 * err/err503.html

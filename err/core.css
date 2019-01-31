@@ -1,0 +1,54 @@
+body {
+    /* Body background color */
+    background: #fff url(./background.png) top left repeat;
+    background-color: #f4fbff;
+    font-family:'Noto Sans', sans-serif;
+    color:#363636;
+}
+.error {
+    margin-top:10%;
+    margin-bottom:10%;
+    text-align: center;
+    float:none;
+}
+.error-code {
+    font-size:7em !important;
+}
+.error-text {
+    font-size:3.3em !important;
+    display:inline-block;
+    line-height:0.8em;
+}
+.error-desc {
+    font-size:1.75em !important;
+    line-height:0.8em;
+}
+footer {
+    width:100%;
+    position: fixed;
+    left:0;
+    right:0;
+    bottom:0;
+
+    background-color: rgba(0,0,0,0.75);
+    opacity: 1;
+    z-index: 1;
+    transition: all 0.5s ease;
+}
+
+footer .footer-text {
+    padding: 15px;
+    text-align: center;
+    color: #DBE0DF;
+    font-size: 1.5em;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+footer .footer-text a{
+    color: #DBE0DF;
+    text-decoration: none !important;
+}
+
+
+
